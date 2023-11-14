@@ -1,4 +1,4 @@
 # Welcome to the development repository of the Nalla Nadu Pickles Website!
 ## About
 
-<p> "Nalla Nadu" is your passport to the world of exquisite pickles! Our company boasts a diverse array of mouthwatering pickle variants crafted with love and tradition. This repository is dedicated to the development of our official website, where pickle enthusiasts can explore our flavors, learn about our story, and conveniently purchase their favorite pickles.</p>
+<p> "Unlock the gates to a world of delectable pickles with 'Nalla Nadu'! Indulge in a rich assortment of mouthwatering pickle variants meticulously crafted with love and tradition. This digital haven is devoted to shaping our official website, where discerning pickle enthusiasts can embark on a flavorful journey, delve into our captivating story, and effortlessly acquire their cherished pickle delights."</p>
